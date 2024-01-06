@@ -1,0 +1,46 @@
+# Compiled Go binary files
+*.exe
+*.test
+*.out
+*.app
+
+# Dependency directories
+/vendor/
+/go.sum
+/Godeps/
+/_workspace/
+
+# Compiled Object files, Static and Dynamic Libraries
+*.o
+*.a
+*.so
+
+# Compiled Output
+*.test
+*.prof
+.cov
+.coverage
+/coverage.txt
+
+# Tools
+/build/
+
+# Log files and databases
+*.log
+*.log.*
+*.sqlite
+*.db
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Air configuration file
+.air.toml
+
+# Environment variables file
+.env
+/c
+/tmp
